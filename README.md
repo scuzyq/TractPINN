@@ -21,6 +21,8 @@
 ![image](https://github.com/scuzyq/TractPINN/blob/main/tauxy.png)
 ![image](https://github.com/scuzyq/TractPINN/blob/main/loss.png)
 
+![image](https://github.com/scuzyq/TractPINN/blob/main/network_architecture_comparison.png)
+![image](https://github.com/scuzyq/TractPINN/blob/main/best_vs_worst_fields_comparison.png)
 
 
 
