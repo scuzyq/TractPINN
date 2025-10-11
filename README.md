@@ -3,7 +3,7 @@
 # `Result`
 
 <div align=center>
-<img src="https://github.com/scuzyq/TractPINN/blob/main/Plate_under_traction.png/>
+<img src="https://github.com/scuzyq/TractPINN/blob/main/Plate_under_traction.png"/>
 </div>
 
 
