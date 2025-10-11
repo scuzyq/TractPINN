@@ -7,9 +7,11 @@
 </div>
 
 
+<div align=center>
+<img src="https://github.com/scuzyq/TractPINN/blob/main/u.png"/>
+</div>
 
 
-![image](https://github.com/scuzyq/TractPINN/blob/main/Plate_under_traction.png)
 
 
 ![image](https://github.com/scuzyq/TractPINN/blob/main/u.png)
