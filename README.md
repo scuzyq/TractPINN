@@ -2,6 +2,13 @@
 2D Plate under traction solved using a PINN
 # `Result`
 
+<div align=center>
+<img src="https://github.com/scuzyq/TractPINN/blob/main/Plate_under_traction.png/>
+</div>
+
+
+
+
 ![image](https://github.com/scuzyq/TractPINN/blob/main/Plate_under_traction.png)
 
 
