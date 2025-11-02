@@ -1,4 +1,5 @@
 # TractPINN
+$$y = \sum_{n=0}^{\infty} \frac{y^{(n)}(x_0)}{n!} (x-x_0)^n$$
 2D Plate under traction solved using a PINN
 # `Result`
 
